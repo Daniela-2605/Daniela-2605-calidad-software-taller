@@ -1,0 +1,7 @@
+organization=daniela-2605
+projectKey=daniela-2605
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.68867
+dashboardUrl=https://sonarcloud.io/dashboard?id=daniela-2605
+ceTaskId=AZn_rMKX_2nZ1cmwBLlI
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZn_rMKX_2nZ1cmwBLlI
