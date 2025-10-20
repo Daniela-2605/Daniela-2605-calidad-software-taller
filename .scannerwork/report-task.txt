@@ -3,5 +3,5 @@ projectKey=daniela-2605
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.68867
 dashboardUrl=https://sonarcloud.io/dashboard?id=daniela-2605
-ceTaskId=AZn_69i8nBgOhrVYtLOh
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZn_69i8nBgOhrVYtLOh
+ceTaskId=AZoCXPpe_2nZ1cmwBig6
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZoCXPpe_2nZ1cmwBig6
