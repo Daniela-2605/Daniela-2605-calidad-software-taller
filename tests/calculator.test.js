@@ -1,9 +1,9 @@
-const { add } = require('../src/calculator');
+const { add } = require('./calculator');
 
-test('adds 1 + 2 to equal 3', () => {
-  expect(add(1, 2)).toBe(3);
+test('suma dos números positivos', () => {
+  expect(add(2, 3)).toBe(5);
 });
 
-test('returns 0 when a is negative', () => {
-  expect(add(-5, 3)).toBe(0);
+test('devuelve 0 si el primer número es negativo', () => {
+  expect(add(-2, 3)).toBe(0);
 });
